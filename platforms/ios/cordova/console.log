@@ -1,0 +1,157 @@
+2014-07-30 04:02:27.189 Ionized[7296:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:02:27.228 Ionized[7296:70b] Unlimited access to network resources
+2014-07-30 04:02:27.390 Ionized[7296:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-30 04:02:27.391 Ionized[7296:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:02:27.391 Ionized[7296:70b] [CDVTimer][statusbar] 0.486016ms
+2014-07-30 04:02:27.392 Ionized[7296:70b] [CDVTimer][TotalPluginStartup] 1.798987ms
+2014-07-30 04:02:27.596 Ionized[7296:70b] Resetting plugins due to page load.
+2014-07-30 04:02:27.857 Ionized[7296:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:44:47.415 Ionized[7567:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:44:47.441 Ionized[7567:70b] Unlimited access to network resources
+2014-07-30 04:44:47.461 Ionized[7567:70b] [CDVTimer][keyboard] 0.079036ms
+2014-07-30 04:44:47.461 Ionized[7567:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:44:47.462 Ionized[7567:70b] [CDVTimer][statusbar] 0.479996ms
+2014-07-30 04:44:47.462 Ionized[7567:70b] [CDVTimer][TotalPluginStartup] 1.442969ms
+2014-07-30 04:44:47.591 Ionized[7567:70b] Resetting plugins due to page load.
+2014-07-30 04:44:47.869 Ionized[7567:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-30 04:45:31.932 Ionized[7768:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:45:31.941 Ionized[7768:70b] Unlimited access to network resources
+2014-07-30 04:45:31.962 Ionized[7768:70b] [CDVTimer][keyboard] 0.083983ms
+2014-07-30 04:45:31.963 Ionized[7768:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:45:31.963 Ionized[7768:70b] [CDVTimer][statusbar] 0.465989ms
+2014-07-30 04:45:31.963 Ionized[7768:70b] [CDVTimer][TotalPluginStartup] 1.484990ms
+2014-07-30 04:45:32.078 Ionized[7768:70b] Resetting plugins due to page load.
+2014-07-30 04:45:32.319 Ionized[7768:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html
+2014-07-30 04:46:21.909 Ionized[7971:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:46:21.918 Ionized[7971:70b] Unlimited access to network resources
+2014-07-30 04:46:21.938 Ionized[7971:70b] [CDVTimer][keyboard] 0.081003ms
+2014-07-30 04:46:21.939 Ionized[7971:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:46:21.939 Ionized[7971:70b] [CDVTimer][statusbar] 0.470042ms
+2014-07-30 04:46:21.940 Ionized[7971:70b] [CDVTimer][TotalPluginStartup] 1.720965ms
+2014-07-30 04:46:22.063 Ionized[7971:70b] Resetting plugins due to page load.
+2014-07-30 04:46:22.459 Ionized[7971:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:47:06.506 Ionized[8172:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:47:06.516 Ionized[8172:70b] Unlimited access to network resources
+2014-07-30 04:47:06.536 Ionized[8172:70b] [CDVTimer][keyboard] 0.087976ms
+2014-07-30 04:47:06.537 Ionized[8172:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:47:06.537 Ionized[8172:70b] [CDVTimer][statusbar] 0.435948ms
+2014-07-30 04:47:06.538 Ionized[8172:70b] [CDVTimer][TotalPluginStartup] 1.433969ms
+2014-07-30 04:47:06.658 Ionized[8172:70b] Resetting plugins due to page load.
+2014-07-30 04:47:06.847 Ionized[8172:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:48:10.356 Ionized[8372:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:48:10.365 Ionized[8372:70b] Unlimited access to network resources
+2014-07-30 04:48:10.386 Ionized[8372:70b] [CDVTimer][keyboard] 0.078022ms
+2014-07-30 04:48:10.387 Ionized[8372:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:48:10.387 Ionized[8372:70b] [CDVTimer][statusbar] 0.473022ms
+2014-07-30 04:48:10.387 Ionized[8372:70b] [CDVTimer][TotalPluginStartup] 1.501024ms
+2014-07-30 04:48:10.519 Ionized[8372:70b] Resetting plugins due to page load.
+2014-07-30 04:48:10.702 Ionized[8372:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:48:42.767 Ionized[8572:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:48:42.776 Ionized[8572:70b] Unlimited access to network resources
+2014-07-30 04:48:42.796 Ionized[8572:70b] [CDVTimer][keyboard] 0.083029ms
+2014-07-30 04:48:42.797 Ionized[8572:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:48:42.798 Ionized[8572:70b] [CDVTimer][statusbar] 0.699997ms
+2014-07-30 04:48:42.798 Ionized[8572:70b] [CDVTimer][TotalPluginStartup] 2.090037ms
+2014-07-30 04:48:42.934 Ionized[8572:70b] Resetting plugins due to page load.
+2014-07-30 04:48:43.234 Ionized[8572:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:49:45.083 Ionized[8771:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:49:45.092 Ionized[8771:70b] Unlimited access to network resources
+2014-07-30 04:49:45.112 Ionized[8771:70b] [CDVTimer][keyboard] 0.078022ms
+2014-07-30 04:49:45.113 Ionized[8771:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:49:45.113 Ionized[8771:70b] [CDVTimer][statusbar] 0.465989ms
+2014-07-30 04:49:45.114 Ionized[8771:70b] [CDVTimer][TotalPluginStartup] 1.910985ms
+2014-07-30 04:49:45.227 Ionized[8771:70b] Resetting plugins due to page load.
+2014-07-30 04:49:45.423 Ionized[8771:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html
+2014-07-30 04:53:51.052 Ionized[8976:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:53:51.061 Ionized[8976:70b] Unlimited access to network resources
+2014-07-30 04:53:51.153 Ionized[8976:70b] [CDVTimer][keyboard] 0.079989ms
+2014-07-30 04:53:51.193 Ionized[8976:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:53:51.194 Ionized[8976:70b] [CDVTimer][statusbar] 0.796020ms
+2014-07-30 04:53:51.195 Ionized[8976:70b] [CDVTimer][TotalPluginStartup] 41.727006ms
+2014-07-30 04:53:51.304 Ionized[8976:70b] Resetting plugins due to page load.
+2014-07-30 04:53:51.580 Ionized[8976:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-07-30 04:56:14.121 Ionized[9184:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:56:14.131 Ionized[9184:70b] Unlimited access to network resources
+2014-07-30 04:56:14.155 Ionized[9184:70b] [CDVTimer][keyboard] 0.081003ms
+2014-07-30 04:56:14.155 Ionized[9184:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:56:14.156 Ionized[9184:70b] [CDVTimer][statusbar] 0.494003ms
+2014-07-30 04:56:14.185 Ionized[9184:70b] [CDVTimer][TotalPluginStartup] 29.995024ms
+2014-07-30 04:56:14.400 Ionized[9184:70b] Resetting plugins due to page load.
+2014-07-30 04:56:14.660 Ionized[9184:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 04:57:48.355 Ionized[9390:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 04:57:48.364 Ionized[9390:70b] Unlimited access to network resources
+2014-07-30 04:57:48.385 Ionized[9390:70b] [CDVTimer][keyboard] 0.081003ms
+2014-07-30 04:57:48.385 Ionized[9390:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 04:57:48.386 Ionized[9390:70b] [CDVTimer][statusbar] 0.496030ms
+2014-07-30 04:57:48.386 Ionized[9390:70b] [CDVTimer][TotalPluginStartup] 1.528025ms
+2014-07-30 04:57:48.616 Ionized[9390:70b] Resetting plugins due to page load.
+2014-07-30 04:57:48.927 Ionized[9390:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-07-30 05:01:48.109 Ionized[9596:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:01:48.118 Ionized[9596:70b] Unlimited access to network resources
+2014-07-30 05:01:48.138 Ionized[9596:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-30 05:01:48.138 Ionized[9596:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:01:48.139 Ionized[9596:70b] [CDVTimer][statusbar] 0.438035ms
+2014-07-30 05:01:48.139 Ionized[9596:70b] [CDVTimer][TotalPluginStartup] 1.452982ms
+2014-07-30 05:01:48.265 Ionized[9596:70b] Resetting plugins due to page load.
+2014-07-30 05:01:48.698 Ionized[9596:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-07-30 05:03:29.556 Ionized[9797:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:03:29.565 Ionized[9797:70b] Unlimited access to network resources
+2014-07-30 05:03:29.586 Ionized[9797:70b] [CDVTimer][keyboard] 0.082970ms
+2014-07-30 05:03:29.586 Ionized[9797:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:03:29.587 Ionized[9797:70b] [CDVTimer][statusbar] 0.453055ms
+2014-07-30 05:03:29.587 Ionized[9797:70b] [CDVTimer][TotalPluginStartup] 1.471996ms
+2014-07-30 05:03:29.706 Ionized[9797:70b] Resetting plugins due to page load.
+2014-07-30 05:03:29.977 Ionized[9797:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 05:04:01.871 Ionized[9997:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:04:01.880 Ionized[9997:70b] Unlimited access to network resources
+2014-07-30 05:04:01.900 Ionized[9997:70b] [CDVTimer][keyboard] 0.083029ms
+2014-07-30 05:04:01.900 Ionized[9997:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:04:01.901 Ionized[9997:70b] [CDVTimer][statusbar] 0.446975ms
+2014-07-30 05:04:01.901 Ionized[9997:70b] [CDVTimer][TotalPluginStartup] 1.497984ms
+2014-07-30 05:04:02.034 Ionized[9997:70b] Resetting plugins due to page load.
+2014-07-30 05:04:02.318 Ionized[9997:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 05:05:47.884 Ionized[10203:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:05:47.893 Ionized[10203:70b] Unlimited access to network resources
+2014-07-30 05:05:47.917 Ionized[10203:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-30 05:05:47.917 Ionized[10203:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:05:47.918 Ionized[10203:70b] [CDVTimer][statusbar] 0.753045ms
+2014-07-30 05:05:47.919 Ionized[10203:70b] [CDVTimer][TotalPluginStartup] 2.660990ms
+2014-07-30 05:05:48.039 Ionized[10203:70b] Resetting plugins due to page load.
+2014-07-30 05:05:48.229 Ionized[10203:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 05:10:57.576 Ionized[10416:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:10:57.585 Ionized[10416:70b] Unlimited access to network resources
+2014-07-30 05:10:57.607 Ionized[10416:70b] [CDVTimer][keyboard] 0.077009ms
+2014-07-30 05:10:57.607 Ionized[10416:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:10:57.608 Ionized[10416:70b] [CDVTimer][statusbar] 0.459015ms
+2014-07-30 05:10:57.608 Ionized[10416:70b] [CDVTimer][TotalPluginStartup] 1.483023ms
+2014-07-30 05:10:57.722 Ionized[10416:70b] Resetting plugins due to page load.
+2014-07-30 05:10:58.029 Ionized[10416:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-07-30 05:12:19.199 Ionized[10618:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:12:19.209 Ionized[10618:70b] Unlimited access to network resources
+2014-07-30 05:12:19.229 Ionized[10618:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-30 05:12:19.230 Ionized[10618:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:12:19.231 Ionized[10618:70b] [CDVTimer][statusbar] 0.685990ms
+2014-07-30 05:12:19.231 Ionized[10618:70b] [CDVTimer][TotalPluginStartup] 1.891971ms
+2014-07-30 05:12:19.346 Ionized[10618:70b] Resetting plugins due to page load.
+2014-07-30 05:12:19.637 Ionized[10618:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 05:15:15.472 Ionized[10824:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:15:15.481 Ionized[10824:70b] Unlimited access to network resources
+2014-07-30 05:15:15.501 Ionized[10824:70b] [CDVTimer][keyboard] 0.081003ms
+2014-07-30 05:15:15.502 Ionized[10824:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:15:15.502 Ionized[10824:70b] [CDVTimer][statusbar] 0.460982ms
+2014-07-30 05:15:15.503 Ionized[10824:70b] [CDVTimer][TotalPluginStartup] 1.452029ms
+2014-07-30 05:15:15.622 Ionized[10824:70b] Resetting plugins due to page load.
+2014-07-30 05:15:15.928 Ionized[10824:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
+2014-07-30 05:15:59.508 Ionized[11023:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-30 05:15:59.518 Ionized[11023:70b] Unlimited access to network resources
+2014-07-30 05:15:59.541 Ionized[11023:70b] [CDVTimer][keyboard] 0.079036ms
+2014-07-30 05:15:59.542 Ionized[11023:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-30 05:15:59.542 Ionized[11023:70b] [CDVTimer][statusbar] 0.509024ms
+2014-07-30 05:15:59.543 Ionized[11023:70b] [CDVTimer][TotalPluginStartup] 1.681030ms
+2014-07-30 05:15:59.778 Ionized[11023:70b] Resetting plugins due to page load.
+2014-07-30 05:16:00.080 Ionized[11023:70b] Finished load of: file:///Users/josephritchie/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BBEF3BA8-6042-4A52-B1A8-C39630157C87/Ionized.app/www/index.html#/tab/dash
